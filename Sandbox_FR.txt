@@ -1,0 +1,18 @@
+Sandbox_FR = {
+	Sandbox_ZombieCrawlerAndDieWhenFall = "Mod Zombie Crawler And Die When Fall"
+	
+	Sandbox_ZCFallFloor = "Deviens un rampant en tombant depuis un étage"
+	Sandbox_ZCFallFloor_tooltip = "Étage à partir duquel les zombies deviendront des rampants en tombant"
+	
+	Sandbox_ZDFallFloorToggle = "Bascule: Mort"
+	Sandbox_ZDFallFloorToggle_tooltip = "Les zombies mourront-ils en tombant?"
+	
+	Sandbox_ZDFallFloor = "Mort à la suite d'une chute depuis un étage"
+	Sandbox_ZDFallFloor_tooltip = "Étage à partir duquel les zombies mourront en tombant"
+	
+	Sandbox_ZCChance = "Chance de devenir un rampant"
+	Sandbox_ZCChance_tooltip = "La chance qu'un zombie a de devenir un rampant après une chute"
+	
+	Sandbox_ZDChance = "Chance de mourrir"
+	Sandbox_ZDChance_tooltip = "La chance qu'un zombie a de mourir après une chute"
+}
